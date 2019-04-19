@@ -1,0 +1,15 @@
+[
+   {
+      "path":"secret/derpapp/derpsecrets",
+      "overrides":[
+         {
+            "key":"derp_secret",
+            "value":"a new secret value"
+         }
+      ]
+   },
+   {
+     "path": "secret/derpapp/derpkeys"
+   },
+
+]
